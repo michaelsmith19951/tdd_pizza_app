@@ -5,4 +5,5 @@ end
 
 #The available meat toppings
 def meat_toppings()
+	meat_toppings = ["bacon", "pepperoni", "sausage", "anchovies"]
 end
