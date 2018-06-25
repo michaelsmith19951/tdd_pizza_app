@@ -12,3 +12,7 @@ end
 def vegetable_toppings()
 	vegetable_toppings = ["mushrooms", "spinach", "broccoli", "pineapple", "peppers"]
 end
+
+#The available sizes
+def sizes()
+end
