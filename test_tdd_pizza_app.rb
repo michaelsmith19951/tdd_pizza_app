@@ -25,4 +25,8 @@ class TestTddPizzaApp < Minitest::Test
 	def test_if_fifth_array_is_a_class
 		assert_equal(Array, sauces().class)
 	end
+
+	def test_if_stuffed_crust_is_in_array
+		assert_equal("stuffed_crust", [0] )
+	end
 end
