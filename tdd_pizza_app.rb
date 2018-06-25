@@ -15,4 +15,5 @@ end
 
 #The available sizes
 def sizes()
+	sizes = ["large", "medium", "small"]
 end
