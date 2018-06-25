@@ -17,3 +17,7 @@ end
 def sizes()
 	sizes = ["large", "medium", "small"]
 end
+
+#The available sauces
+def sauces()
+end

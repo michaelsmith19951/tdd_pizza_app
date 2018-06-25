@@ -22,4 +22,7 @@ class TestTddPizzaApp < Minitest::Test
 		assert_equal(Array, sizes().class)
 	end
 
+	def test_if_fifth_array_is_a_class
+		assert_equal(Array, sauces().class)
+	end
 end
