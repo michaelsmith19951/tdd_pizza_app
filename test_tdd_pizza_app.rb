@@ -13,4 +13,8 @@ class TestTddPizzaApp < Minitest::Test
 	def test_if_second_array_is_a_class
 		assert_equal(Array, meat_toppings().class)
 	end
+
+	def test_if_third_array_is_a_class
+		assert_equal(Array, vegetable_toppings().class)
+	end
 end
