@@ -20,4 +20,5 @@ end
 
 #The available sauces
 def sauces()
+	sauces = ["garlic", "pesto", "bbq", "salsa", "ranch"]
 end
